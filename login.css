@@ -1,0 +1,37 @@
+body{
+    
+    background:url("https://www.xbhp.com/wp-content/uploads/2019/08/JK-Tyre.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: beige;
+    position: relative;
+}
+h2{
+    text-align: center;
+    color: beige;
+}
+label{
+    color: beige;
+}
+button{
+    color: black;
+}
+.form-allign{
+    padding-top: 10%;
+    position: center;
+    padding-left: 35%;  
+}
+.login-screen {
+    background-color: rgba(0, 0, 0, 0.6);
+    overflow: hidden;
+    padding: 1em;
+    padding-left: 1em;
+    border-radius: 10px;
+    box-sizing: content-box;
+    box-shadow: 0 15px 25px white;
+    box
+}
